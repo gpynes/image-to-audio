@@ -19,5 +19,8 @@
     "d3-array": "^2.4.0",
     "tonegenerator": "^0.3.2",
     "wavefile": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=12.14.1"
   }
 }
