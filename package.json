@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "d3-array": "^2.4.0",
-    "speaker": "^0.5.1",
     "tonegenerator": "^0.3.2",
     "wavefile": "^11.0.0"
   }
